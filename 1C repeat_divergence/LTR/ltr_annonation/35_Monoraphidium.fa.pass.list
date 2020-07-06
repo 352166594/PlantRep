@@ -1,0 +1,3 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+NMUB01000051.1:187707..189914	pass	motif:TGCA	TSD:CTCT	187703..187706	189915..189918	IN:187831..189790	0.99194	+	unknown	NA	311678
+NMUB01000398.1:8552..10725	pass	motif:TGCA	TSD:CAGC	8548..8551	10726..10729	IN:8936..10341	1	+	unknown	NA	0

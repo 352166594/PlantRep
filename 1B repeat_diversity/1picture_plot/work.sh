@@ -1,0 +1,15 @@
+python r_format_sys.py line_length_percentage_genome.xls LINE_length_in_genome_order_r.txt
+python r_format_sys.py sine_length_percentage_genome.xls SINE_length_in_genome_order_r.txt
+python r_format_sys.py ltr_length_percentage_genome.xls  LTR_length_in_genome_order_r.txt
+python r_format_sys.py dna_length_percentage_genome.xls  DNA_length_in_genome_order_r.txt
+
+
+python 2plot_stack_length_percentage_genome.py  LINE_length_in_genome_order_r.txt LINE_length_in_genome_plotstack.xls
+python 2plot_stack_length_percentage_genome.py  SINE_length_in_genome_order_r.txt SINE_length_in_genome_plotstack.xls
+python 2plot_stack_length_percentage_genome.py  LTR_length_in_genome_order_r.txt  LTR_length_in_genome_plotstack.xls
+python 2plot_stack_length_percentage_genome.py  DNA_length_in_genome_order_r.txt  DNA_length_in_genome_plotstack.xls
+
+Rscript plot_stack.R LINE_length_in_genome_plotstack.txt
+Rscript plot_stack.R SINE_length_in_genome_plotstack.txt
+Rscript plot_stack.R LTR_length_in_genome_plotstack.txt
+Rscript plot_stack.R DNA_length_in_genome_plotstack.txt

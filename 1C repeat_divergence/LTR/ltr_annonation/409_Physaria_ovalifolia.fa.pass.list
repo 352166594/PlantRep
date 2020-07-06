@@ -1,0 +1,3 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+OVBY01000817.1:531..5141	pass	motif:TGCA	TSD:TATAG	526..530	5142..5146	IN:734..4938	0.92611	+	unknown	LTR	2991849
+OVBY01001018.1:620..5939	pass	motif:TGCA	TSD:TAGGT	615..619	5940..5944	IN:975..5584	0.98028	-	Gypsy	LTR	768611

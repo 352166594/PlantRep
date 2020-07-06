@@ -1,0 +1,4 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+NW_014011947.1:3445..10321	pass	motif:TGCT	TSD:GCTGC	3440..3444	10325..10329	IN:3568..10209	0	+	unknown	NA	NA
+NW_014011947.1:3448..10321	pass	motif:TGCT	TSD:GCTGC	3440..3444	10325..10329	IN:3568..10206	0	+	unknown	NA	NA
+NW_014011947.1:3454..10321	pass	motif:TGCT	TSD:GCTGC	3446..3450	10325..10329	IN:3568..10206	0	+	unknown	NA	NA

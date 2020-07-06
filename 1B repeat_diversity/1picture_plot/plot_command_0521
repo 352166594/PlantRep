@@ -1,0 +1,252 @@
+head -n 1 average_length_super_family_r.txt > Total_average_length.xls
+grep Total average_length_super_family_r.txt >> Total_average_length.xls
+Rscript plot_stack.R Total_average_length.xls
+head -n 1 average_length_super_family_r.txt > DIRS_average_length.xls
+grep DIRS average_length_super_family_r.txt >> DIRS_average_length.xls
+Rscript plot_stack.R DIRS_average_length.xls
+head -n 1 average_length_super_family_r.txt > LINE_average_length.xls
+grep LINE average_length_super_family_r.txt >> LINE_average_length.xls
+Rscript plot_stack.R LINE_average_length.xls
+head -n 1 average_length_super_family_r.txt > LTR_average_length.xls
+grep LTR average_length_super_family_r.txt >> LTR_average_length.xls
+Rscript plot_stack.R LTR_average_length.xls
+head -n 1 average_length_super_family_r.txt > SINE_average_length.xls
+grep SINE average_length_super_family_r.txt >> SINE_average_length.xls
+Rscript plot_stack.R SINE_average_length.xls
+head -n 1 average_length_super_family_r.txt > Circular_dsDNA_average_length.xls
+grep Circular_dsDNA average_length_super_family_r.txt >> Circular_dsDNA_average_length.xls
+Rscript plot_stack.R Circular_dsDNA_average_length.xls
+head -n 1 average_length_super_family_r.txt > DNA_Polymerase_average_length.xls
+grep DNA_Polymerase average_length_super_family_r.txt >> DNA_Polymerase_average_length.xls
+Rscript plot_stack.R DNA_Polymerase_average_length.xls
+head -n 1 average_length_super_family_r.txt > Rolling_Circle_average_length.xls
+grep Rolling_Circle average_length_super_family_r.txt >> Rolling_Circle_average_length.xls
+Rscript plot_stack.R Rolling_Circle_average_length.xls
+head -n 1 average_length_super_family_r.txt > TIR_average_length.xls
+grep TIR average_length_super_family_r.txt >> TIR_average_length.xls
+Rscript plot_stack.R TIR_average_length.xls
+head -n 1 average_length_super_family_r.txt > RNA_average_length.xls
+grep RNA average_length_super_family_r.txt >> RNA_average_length.xls
+Rscript plot_stack.R RNA_average_length.xls
+head -n 1 average_length_super_family_r.txt > Low_complexity_average_length.xls
+grep Low_complexity average_length_super_family_r.txt >> Low_complexity_average_length.xls
+Rscript plot_stack.R Low_complexity_average_length.xls
+head -n 1 average_length_super_family_r.txt > Satellite_average_length.xls
+grep Satellite average_length_super_family_r.txt >> Satellite_average_length.xls
+Rscript plot_stack.R Satellite_average_length.xls
+head -n 1 average_length_super_family_r.txt > Simple_repeat_average_length.xls
+grep Simple_repeat average_length_super_family_r.txt >> Simple_repeat_average_length.xls
+Rscript plot_stack.R Simple_repeat_average_length.xls
+head -n 1 average_length_super_family_r.txt > PLE_average_length.xls
+grep PLE average_length_super_family_r.txt >> PLE_average_length.xls
+Rscript plot_stack.R PLE_average_length.xls
+head -n 1 length_in_genome_super_family_r.txt > Total_length_in_genome.xls
+grep Total length_in_genome_super_family_r.txt >> Total_length_in_genome.xls
+Rscript plot_stack.R Total_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > DIRS_length_in_genome.xls
+grep DIRS length_in_genome_super_family_r.txt >> DIRS_length_in_genome.xls
+Rscript plot_stack.R DIRS_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > LINE_length_in_genome.xls
+grep LINE length_in_genome_super_family_r.txt >> LINE_length_in_genome.xls
+Rscript plot_stack.R LINE_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > LTR_length_in_genome.xls
+grep LTR length_in_genome_super_family_r.txt >> LTR_length_in_genome.xls
+Rscript plot_stack.R LTR_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > SINE_length_in_genome.xls
+grep SINE length_in_genome_super_family_r.txt >> SINE_length_in_genome.xls
+Rscript plot_stack.R SINE_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > Circular_dsDNA_length_in_genome.xls
+grep Circular_dsDNA length_in_genome_super_family_r.txt >> Circular_dsDNA_length_in_genome.xls
+Rscript plot_stack.R Circular_dsDNA_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > DNA_Polymerase_length_in_genome.xls
+grep DNA_Polymerase length_in_genome_super_family_r.txt >> DNA_Polymerase_length_in_genome.xls
+Rscript plot_stack.R DNA_Polymerase_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > Rolling_Circle_length_in_genome.xls
+grep Rolling_Circle length_in_genome_super_family_r.txt >> Rolling_Circle_length_in_genome.xls
+Rscript plot_stack.R Rolling_Circle_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > TIR_length_in_genome.xls
+grep TIR length_in_genome_super_family_r.txt >> TIR_length_in_genome.xls
+Rscript plot_stack.R TIR_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > RNA_length_in_genome.xls
+grep RNA length_in_genome_super_family_r.txt >> RNA_length_in_genome.xls
+Rscript plot_stack.R RNA_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > Low_complexity_length_in_genome.xls
+grep Low_complexity length_in_genome_super_family_r.txt >> Low_complexity_length_in_genome.xls
+Rscript plot_stack.R Low_complexity_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > Satellite_length_in_genome.xls
+grep Satellite length_in_genome_super_family_r.txt >> Satellite_length_in_genome.xls
+Rscript plot_stack.R Satellite_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > Simple_repeat_length_in_genome.xls
+grep Simple_repeat length_in_genome_super_family_r.txt >> Simple_repeat_length_in_genome.xls
+Rscript plot_stack.R Simple_repeat_length_in_genome.xls
+head -n 1 length_in_genome_super_family_r.txt > PLE_length_in_genome.xls
+grep PLE length_in_genome_super_family_r.txt >> PLE_length_in_genome.xls
+Rscript plot_stack.R PLE_length_in_genome.xls
+head -n 1 length_in_repeat_super_family_r.txt > Total_length_in_repeat.xls
+grep Total length_in_repeat_super_family_r.txt >> Total_length_in_repeat.xls
+Rscript plot_stack.R Total_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > DIRS_length_in_repeat.xls
+grep DIRS length_in_repeat_super_family_r.txt >> DIRS_length_in_repeat.xls
+Rscript plot_stack.R DIRS_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > LINE_length_in_repeat.xls
+grep LINE length_in_repeat_super_family_r.txt >> LINE_length_in_repeat.xls
+Rscript plot_stack.R LINE_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > LTR_length_in_repeat.xls
+grep LTR length_in_repeat_super_family_r.txt >> LTR_length_in_repeat.xls
+Rscript plot_stack.R LTR_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > SINE_length_in_repeat.xls
+grep SINE length_in_repeat_super_family_r.txt >> SINE_length_in_repeat.xls
+Rscript plot_stack.R SINE_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > Circular_dsDNA_length_in_repeat.xls
+grep Circular_dsDNA length_in_repeat_super_family_r.txt >> Circular_dsDNA_length_in_repeat.xls
+Rscript plot_stack.R Circular_dsDNA_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > DNA_Polymerase_length_in_repeat.xls
+grep DNA_Polymerase length_in_repeat_super_family_r.txt >> DNA_Polymerase_length_in_repeat.xls
+Rscript plot_stack.R DNA_Polymerase_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > Rolling_Circle_length_in_repeat.xls
+grep Rolling_Circle length_in_repeat_super_family_r.txt >> Rolling_Circle_length_in_repeat.xls
+Rscript plot_stack.R Rolling_Circle_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > TIR_length_in_repeat.xls
+grep TIR length_in_repeat_super_family_r.txt >> TIR_length_in_repeat.xls
+Rscript plot_stack.R TIR_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > RNA_length_in_repeat.xls
+grep RNA length_in_repeat_super_family_r.txt >> RNA_length_in_repeat.xls
+Rscript plot_stack.R RNA_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > Low_complexity_length_in_repeat.xls
+grep Low_complexity length_in_repeat_super_family_r.txt >> Low_complexity_length_in_repeat.xls
+Rscript plot_stack.R Low_complexity_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > Satellite_length_in_repeat.xls
+grep Satellite length_in_repeat_super_family_r.txt >> Satellite_length_in_repeat.xls
+Rscript plot_stack.R Satellite_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > Simple_repeat_length_in_repeat.xls
+grep Simple_repeat length_in_repeat_super_family_r.txt >> Simple_repeat_length_in_repeat.xls
+Rscript plot_stack.R Simple_repeat_length_in_repeat.xls
+head -n 1 length_in_repeat_super_family_r.txt > PLE_length_in_repeat.xls
+grep PLE length_in_repeat_super_family_r.txt >> PLE_length_in_repeat.xls
+Rscript plot_stack.R PLE_length_in_repeat.xls
+head -n 1 length_super_family_r.txt > Total_length.xls
+grep Total length_super_family_r.txt >> Total_length.xls
+Rscript plot_stack.R Total_length.xls
+head -n 1 length_super_family_r.txt > DIRS_length.xls
+grep DIRS length_super_family_r.txt >> DIRS_length.xls
+Rscript plot_stack.R DIRS_length.xls
+head -n 1 length_super_family_r.txt > LINE_length.xls
+grep LINE length_super_family_r.txt >> LINE_length.xls
+Rscript plot_stack.R LINE_length.xls
+head -n 1 length_super_family_r.txt > LTR_length.xls
+grep LTR length_super_family_r.txt >> LTR_length.xls
+Rscript plot_stack.R LTR_length.xls
+head -n 1 length_super_family_r.txt > SINE_length.xls
+grep SINE length_super_family_r.txt >> SINE_length.xls
+Rscript plot_stack.R SINE_length.xls
+head -n 1 length_super_family_r.txt > Circular_dsDNA_length.xls
+grep Circular_dsDNA length_super_family_r.txt >> Circular_dsDNA_length.xls
+Rscript plot_stack.R Circular_dsDNA_length.xls
+head -n 1 length_super_family_r.txt > DNA_Polymerase_length.xls
+grep DNA_Polymerase length_super_family_r.txt >> DNA_Polymerase_length.xls
+Rscript plot_stack.R DNA_Polymerase_length.xls
+head -n 1 length_super_family_r.txt > Rolling_Circle_length.xls
+grep Rolling_Circle length_super_family_r.txt >> Rolling_Circle_length.xls
+Rscript plot_stack.R Rolling_Circle_length.xls
+head -n 1 length_super_family_r.txt > TIR_length.xls
+grep TIR length_super_family_r.txt >> TIR_length.xls
+Rscript plot_stack.R TIR_length.xls
+head -n 1 length_super_family_r.txt > RNA_length.xls
+grep RNA length_super_family_r.txt >> RNA_length.xls
+Rscript plot_stack.R RNA_length.xls
+head -n 1 length_super_family_r.txt > Low_complexity_length.xls
+grep Low_complexity length_super_family_r.txt >> Low_complexity_length.xls
+Rscript plot_stack.R Low_complexity_length.xls
+head -n 1 length_super_family_r.txt > Satellite_length.xls
+grep Satellite length_super_family_r.txt >> Satellite_length.xls
+Rscript plot_stack.R Satellite_length.xls
+head -n 1 length_super_family_r.txt > Simple_repeat_length.xls
+grep Simple_repeat length_super_family_r.txt >> Simple_repeat_length.xls
+Rscript plot_stack.R Simple_repeat_length.xls
+head -n 1 length_super_family_r.txt > PLE_length.xls
+grep PLE length_super_family_r.txt >> PLE_length.xls
+Rscript plot_stack.R PLE_length.xls
+head -n 1 number_percentage_super_family_r.txt > Total_number_percentage.xls
+grep Total number_percentage_super_family_r.txt >> Total_number_percentage.xls
+Rscript plot_stack.R Total_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > DIRS_number_percentage.xls
+grep DIRS number_percentage_super_family_r.txt >> DIRS_number_percentage.xls
+Rscript plot_stack.R DIRS_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > LINE_number_percentage.xls
+grep LINE number_percentage_super_family_r.txt >> LINE_number_percentage.xls
+Rscript plot_stack.R LINE_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > LTR_number_percentage.xls
+grep LTR number_percentage_super_family_r.txt >> LTR_number_percentage.xls
+Rscript plot_stack.R LTR_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > SINE_number_percentage.xls
+grep SINE number_percentage_super_family_r.txt >> SINE_number_percentage.xls
+Rscript plot_stack.R SINE_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > Circular_dsDNA_number_percentage.xls
+grep Circular_dsDNA number_percentage_super_family_r.txt >> Circular_dsDNA_number_percentage.xls
+Rscript plot_stack.R Circular_dsDNA_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > DNA_Polymerase_number_percentage.xls
+grep DNA_Polymerase number_percentage_super_family_r.txt >> DNA_Polymerase_number_percentage.xls
+Rscript plot_stack.R DNA_Polymerase_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > Rolling_Circle_number_percentage.xls
+grep Rolling_Circle number_percentage_super_family_r.txt >> Rolling_Circle_number_percentage.xls
+Rscript plot_stack.R Rolling_Circle_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > TIR_number_percentage.xls
+grep TIR number_percentage_super_family_r.txt >> TIR_number_percentage.xls
+Rscript plot_stack.R TIR_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > RNA_number_percentage.xls
+grep RNA number_percentage_super_family_r.txt >> RNA_number_percentage.xls
+Rscript plot_stack.R RNA_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > Low_complexity_number_percentage.xls
+grep Low_complexity number_percentage_super_family_r.txt >> Low_complexity_number_percentage.xls
+Rscript plot_stack.R Low_complexity_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > Satellite_number_percentage.xls
+grep Satellite number_percentage_super_family_r.txt >> Satellite_number_percentage.xls
+Rscript plot_stack.R Satellite_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > Simple_repeat_number_percentage.xls
+grep Simple_repeat number_percentage_super_family_r.txt >> Simple_repeat_number_percentage.xls
+Rscript plot_stack.R Simple_repeat_number_percentage.xls
+head -n 1 number_percentage_super_family_r.txt > PLE_number_percentage.xls
+grep PLE number_percentage_super_family_r.txt >> PLE_number_percentage.xls
+Rscript plot_stack.R PLE_number_percentage.xls
+head -n 1 number_super_family_r.txt > Total_number.xls
+grep Total number_super_family_r.txt >> Total_number.xls
+Rscript plot_stack.R Total_number.xls
+head -n 1 number_super_family_r.txt > DIRS_number.xls
+grep DIRS number_super_family_r.txt >> DIRS_number.xls
+Rscript plot_stack.R DIRS_number.xls
+head -n 1 number_super_family_r.txt > LINE_number.xls
+grep LINE number_super_family_r.txt >> LINE_number.xls
+Rscript plot_stack.R LINE_number.xls
+head -n 1 number_super_family_r.txt > LTR_number.xls
+grep LTR number_super_family_r.txt >> LTR_number.xls
+Rscript plot_stack.R LTR_number.xls
+head -n 1 number_super_family_r.txt > SINE_number.xls
+grep SINE number_super_family_r.txt >> SINE_number.xls
+Rscript plot_stack.R SINE_number.xls
+head -n 1 number_super_family_r.txt > Circular_dsDNA_number.xls
+grep Circular_dsDNA number_super_family_r.txt >> Circular_dsDNA_number.xls
+Rscript plot_stack.R Circular_dsDNA_number.xls
+head -n 1 number_super_family_r.txt > DNA_Polymerase_number.xls
+grep DNA_Polymerase number_super_family_r.txt >> DNA_Polymerase_number.xls
+Rscript plot_stack.R DNA_Polymerase_number.xls
+head -n 1 number_super_family_r.txt > Rolling_Circle_number.xls
+grep Rolling_Circle number_super_family_r.txt >> Rolling_Circle_number.xls
+Rscript plot_stack.R Rolling_Circle_number.xls
+head -n 1 number_super_family_r.txt > TIR_number.xls
+grep TIR number_super_family_r.txt >> TIR_number.xls
+Rscript plot_stack.R TIR_number.xls
+head -n 1 number_super_family_r.txt > RNA_number.xls
+grep RNA number_super_family_r.txt >> RNA_number.xls
+Rscript plot_stack.R RNA_number.xls
+head -n 1 number_super_family_r.txt > Low_complexity_number.xls
+grep Low_complexity number_super_family_r.txt >> Low_complexity_number.xls
+Rscript plot_stack.R Low_complexity_number.xls
+head -n 1 number_super_family_r.txt > Satellite_number.xls
+grep Satellite number_super_family_r.txt >> Satellite_number.xls
+Rscript plot_stack.R Satellite_number.xls
+head -n 1 number_super_family_r.txt > Simple_repeat_number.xls
+grep Simple_repeat number_super_family_r.txt >> Simple_repeat_number.xls
+Rscript plot_stack.R Simple_repeat_number.xls
+head -n 1 number_super_family_r.txt > PLE_number.xls
+grep PLE number_super_family_r.txt >> PLE_number.xls
+Rscript plot_stack.R PLE_number.xls

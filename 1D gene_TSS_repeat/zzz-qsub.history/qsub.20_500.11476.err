@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_count_500bp_3end.py", line 4, in <module>
+    f1 = open(sys.argv[1])
+FileNotFoundError: [Errno 2] No such file or directory: '/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/3end_500/56_Chlorella_vulgaris_500bp.xls'

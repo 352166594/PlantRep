@@ -1,0 +1,2 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+BHFV01000422.1:1407..7443	pass	motif:TGCA	TSD:GCGCG	1402..1406	7444..7448	IN:1611..7239	0.9951	-	Gypsy	LTR	189080

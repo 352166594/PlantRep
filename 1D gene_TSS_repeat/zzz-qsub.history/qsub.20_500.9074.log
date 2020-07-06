@@ -1,0 +1,5 @@
+Linux comput18 2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Fri Jun 12 16:37:53 CST 2020
+job: 20_500
+python /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_s3_count_500bp_3gene5.py /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/3gene5_500/507_Coffea_arabica_500bp.xls /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_3gene5_500_merge/507_Coffea_arabica_500bp_merge.xls
+Fri Jun 12 16:40:26 CST 2020

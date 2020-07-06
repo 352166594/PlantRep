@@ -1,0 +1,3 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+NW_003315883.1:582813..590913	pass	motif:TGCA	TSD:CGCAA	582808..582812	590914..590918	IN:583432..590294	0.98869	+	unknown	NA	438313
+NW_003315884.1:35951..55454	pass	motif:TGCA	TSD:CCTC	35947..35950	55455..55458	IN:36133..55272	0	+	unknown	NA	NA

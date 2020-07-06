@@ -1,0 +1,2 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+CBQS010249741.1:585..5503	pass	motif:TGCA	TSD:ATACC	580..584	5504..5508	IN:773..5317	0.90957	-	Copia	LTR	3706301

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_s3_count_500bp_3gene5.py", line 4, in <module>
+    f1 = open(sys.argv[1])
+FileNotFoundError: [Errno 2] No such file or directory: '/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/3gene5_500/230_Medicago_truncatula_UNRUN_500bp.xls'

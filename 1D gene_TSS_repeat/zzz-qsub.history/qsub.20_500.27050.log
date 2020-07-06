@@ -1,0 +1,5 @@
+Linux comput17 2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Fri Jun 12 16:31:10 CST 2020
+job: 20_500
+python /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_count_500bp_3end.py /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/3end_500/373_Brassica_oleracea_500bp.xls /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_3end_500_merge/373_Brassica_oleracea_500bp_merge.xls
+Fri Jun 12 16:31:10 CST 2020

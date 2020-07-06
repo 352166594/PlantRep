@@ -1,0 +1,3 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+QAXD01000013.1:545169..550129	pass	motif:TGCA	TSD:ATGG	545165..545168	550130..550133	IN:545297..550001	0.95312	+	unknown	NA	1861893
+QAXD01000042.1:284330..289656	pass	motif:TGCA	TSD:TGTGT	284325..284329	289657..289661	IN:284561..289425	0.99567	-	Copia	LTR	167021

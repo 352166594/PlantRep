@@ -1,0 +1,3 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+RWJK01001665.1:105139..109048	pass	motif:TGCA	TSD:GCTG	105135..105138	109049..109052	IN:105277..108910	0.95652	-	unknown	NA	1722741
+RWJK01001909.1:6772..9304	pass	motif:TGCA	TSD:GGGT	6768..6771	9305..9308	IN:6932..9144	1	+	unknown	NA	0

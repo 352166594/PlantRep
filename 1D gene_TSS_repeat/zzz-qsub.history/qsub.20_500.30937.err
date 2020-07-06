@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_count_500bp_5start.py", line 27, in <module>
+    TE_type[lis1[3]][pre_site] = TE_type[lis1[3]][pre_site] + int(sit_list[i])
+ValueError: invalid literal for int() with base 10: '\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0

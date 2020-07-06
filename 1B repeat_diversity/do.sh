@@ -1,0 +1,24 @@
+py repeat_merge_human3.py
+py percentage_repeat5.py
+py percentage_repeat428.py
+
+#数据表格
+python type_family428.py repeat_order_number.xls kindom_order_number.xls
+python type_family428.py repeat_order_average_length.xls kindom_order_average_length.xls
+python type_family428.py order_number_percentage.xls kindom_order_number_percentage.xls
+python type_family428.py order_length_percentage_repeat.xls kindom_order_length_percentage_repeat.xls
+python type_family428.py order_length_percentage_genome.xls kindom_order_length_percentage_genome.xls
+python type_family428.py order_length_number_genome.xls kindom_order_length_genome.xls
+
+
+#画图表格
+python type_family520.py repeat_order_number.xls kindom_order_number.xls
+python type_family520.py repeat_order_average_length.xls kindom_order_average_length.xls
+python type_family520.py order_number_percentage.xls kindom_order_number_percentage.xls
+python type_family520.py order_length_percentage_repeat.xls kindom_order_length_percentage_repeat.xls
+python type_family520.py order_length_percentage_genome.xls kindom_order_length_percentage_genome.xls
+python type_family520.py order_length_number_genome.xls kindom_order_length_genome.xls
+
+cp kindom_order_* picture_plot
+cd picture_plot
+

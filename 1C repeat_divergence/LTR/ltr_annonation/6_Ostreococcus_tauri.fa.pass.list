@@ -1,0 +1,3 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+NC_014441.2:175683..177842	pass	motif:TGCA	TSD:TTATT	175678..175682	177843..177847	IN:175867..177658	1	+	Copia	LTR	0
+NC_014444.2:61164..63395	pass	motif:TGCA	TSD:TTTGT	61159..61163	63396..63400	IN:61347..63212	0.99454	-	Copia	LTR	210768

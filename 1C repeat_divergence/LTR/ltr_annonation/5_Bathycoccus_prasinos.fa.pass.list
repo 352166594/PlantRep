@@ -1,0 +1,2 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+NC_023996.1:672744..679617	pass	motif:TGCA	TSD:TGTCT	672739..672743	679618..679622	IN:673291..679070	0.99452	?	unknown	NA	211543

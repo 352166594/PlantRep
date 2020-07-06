@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/ratio_site_gene_TE_500bp.py", line 29, in <module>
+    f3.write(lin2.strip()+"\t"+str(gene_number) + "\t"+str(round(te_number/float(gene_number),3))+"\n")
+ZeroDivisionError: float division by zero

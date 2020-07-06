@@ -1,0 +1,10 @@
+Linux comput18 2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Fri Jun 12 16:15:32 CST 2020
+job: 20_500
+python /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_s3_count_500bp_3gene5.py /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/3gene5_500/144_Aegilops_tauschii_500bp.xls /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_3gene5_500_merge/144_Aegilops_tauschii_500bp_merge.xls
+Fri Jun 12 16:17:49 CST 2020
+Linux comput17 2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Fri Jun 12 16:38:09 CST 2020
+job: 20_500
+python /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_count_500bp_5gene3.py /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/5gene3_500/510_Echium_plantagineum_500bp.xls /vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_5gene3_500_merge/510_Echium_plantagineum_500bp_merge.xls
+Fri Jun 12 16:38:09 CST 2020

@@ -1,0 +1,28 @@
+py repeat_merge_human3.py
+py percentage_repeat5.py
+py percentage_repeat.py
+
+python type_family428.py super_family_number.xls kindom_super_family_number.xls
+python type_family428.py super_family_average_length.xls kindom_super_family_average_length.xls
+python type_family428.py super_family_number_percentage.xls kindom_super_family_number_percentage.xls
+python type_family428.py super_family_length_percentage_repeat.xls kindom_super_family_length_percentage_repeat.xls
+python type_family428.py super_family_length_percentage_genome.xls kindom_super_family_length_percentage_genome.xls
+python type_family428.py super_family_length_number_genome.xls kindom_super_family_length_genome.xls
+
+python sort_number_count.py
+python sort_number_average_v2.py
+
+cp kindom_super_family_* 1picture_plot
+cd 1picture_plot
+
+
+
+python r_format_sys.py kindom_super_family_number.xls number_super_family_r.txt
+python r_format_sys.py kindom_super_family_average_length.xls average_length_super_family_r.txt
+python r_format_sys.py kindom_super_family_number_percentage.xls number_percentage_super_family_r.txt
+python r_format_sys.py kindom_super_family_length_percentage_repeat.xls length_in_repeat_super_family_r.txt
+python r_format_sys.py kindom_super_family_length_percentage_genome.xls length_in_genome_super_family_r.txt
+python r_format_sys.py kindom_super_family_length_genome.xls length_super_family_r.txt
+
+
+

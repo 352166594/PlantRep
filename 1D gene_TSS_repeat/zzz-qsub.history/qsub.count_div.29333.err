@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/ratio_site_gene_TE_500bp.py", line 4, in <module>
+    f1=open(sys.argv[1])
+FileNotFoundError: [Errno 2] No such file or directory: '/vol3/agis/huangsanwen_group/luoxizhi/work/gene_525/gene_bin_500bp/230_Medicago_truncatula_UNRUN_gene_bin_500bp.xls'

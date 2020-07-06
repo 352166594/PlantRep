@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/vol3/agis/zhangxinyan_group/zhangxinyan/luoxizhi/80_class2_gene_site_TE/20_count_500bp_5gene3.py", line 21, in <module>
+    if lis1[4] not in TE_type:
+IndexError: list index out of range

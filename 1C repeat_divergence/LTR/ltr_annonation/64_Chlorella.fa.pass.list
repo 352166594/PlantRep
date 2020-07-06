@@ -1,0 +1,3 @@
+#LTR_loc        Category        Motif   TSD     5_TSD 3_TSD       Internal        Similarity      Strand  SuperFamily  TE_type     Insertion_Time
+PCFQ01000011.1:482990..484325	pass	motif:TGCA	TSD:TTGGG	482985..482989	484326..484330	IN:483133..484182	0.97203	+	unknown	NA	1096342
+PCFQ01000014.1:14702..20178	pass	motif:TGCA	TSD:TGAC	14698..14701	20179..20182	IN:14968..19903	0.89091	+	unknown	NA	4534159
